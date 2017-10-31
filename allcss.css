@@ -27,6 +27,7 @@ body{
   padding-bottom: 25px;
   padding-right: 10px;
   padding-left: 100px;
+	overflow: auto;
 }
 .topmenutitle{
   background-color: #333333;
@@ -36,17 +37,21 @@ body{
   padding-left: 5px;
   }
 a.topmenulinks:hover, a.topmenulinks:active{
+	border-radius: 12px;
   background: #333333;
   color: white;
   text-decoration: none;
   display: inline-block;
+	
 }
 a.topmenulinks:visited{
+	border-radius: 12px;
   text-decoration: none;
   border: 2px solid white;
   display: inline-block;
 }
 a.topmenulinks{
+	border-radius: 12px;
   background: #ffffff;
   color: black;
   text-decoration: none;
@@ -54,3 +59,86 @@ a.topmenulinks{
   display: inline-block;
   padding: 3px 3px;
 }
+.bodybox{
+  
+  width: 100%;
+  bottom: 10px;
+  background-color: #ff0000;
+  margin: 0px;
+	position: relative;
+	overflow: auto;
+}
+.box1{
+	
+  	color: #ffffff;
+	width: 250px;
+	height: 250px;
+  	margin: 20px;
+	position: fixed;
+	top: 100px;
+	left: 0;
+	border: 1px solid #333333;
+	border-radius: 12px;
+	 
+	
+  }
+.box2{
+	border: 1px solid #333333;
+	border-radius: 12px;
+  	color: #ffffff;
+	width: 250px;
+	height: 250px;  	
+	margin: 20px;
+	position: fixed;
+	top: 100px;
+	left: 290px;
+	
+  }
+.box3{
+	border: 1px solid #333333;
+	border-radius: 12px;
+  	color: #ffffff;
+	width: 250px;
+	height: 250px;
+  	
+	margin: 20px;
+	position: fixed;
+	top: 100px;
+	left: 580px;
+	
+  }
+.box4{
+	border: 1px solid #333333;
+	border-radius: 12px;
+  	color: #ffffff;
+	width: 250px;
+	height: 250px;
+  	margin: 20px;
+	position: fixed;
+	top: 380px;
+	left: 0;
+  }
+.box5{
+	border: 1px solid #333333;
+	border-radius: 12px;
+  	color: #ffffff;
+	width: 250px;
+	height: 250px;
+  	
+	margin: 20px;
+	position: fixed;
+	top: 380px;
+	left: 290px;
+  }
+.box6{
+	border: 1px solid #333333;
+	border-radius: 12px;
+  	color: #ffffff;
+	width: 250px;
+	height: 250px;
+  	
+	margin: 20px;
+	position: fixed;
+	top: 380px;
+	left: 580px;
+  }
