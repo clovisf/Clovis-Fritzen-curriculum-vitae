@@ -14,29 +14,27 @@ Contact me at clovisf AT gmail com
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="allcss.css">
+<script src="localjs.js"></script>
+<meta charset="utf-8"/>
 </head>
 <body>
-<div class="topheader">
+
   <div class="topmenutitle">
     <p class="pagetitle">Clovis Fritzen<p>
   </div>
+  <br>
   <div class="topmenu">
-    <a href="" target="" class="topmenulinks">Home</a>
-    <a href="" target="" class="topmenulinks">Who is Clovis</a>
-    <a href="" target="" class="topmenulinks">My Work</a>
-    <a href="" target="" class="topmenulinks">News/updates</a>
-    <a href="" target="" class="topmenulinks">Where to find me</a>
+    <a id="homepage" href="#" target="" class="topmenulinks" onclick="load_home()">Home</a>
+    <a id ="whoami" href="#" target="" class="topmenulinks" onclick="load_whoami()">Who is Clovis</a>
+    <a id="mywork" href="#" target="" class="topmenulinks" onclick="load_mywork()">My Work</a>
+    <a id="news" href="#" target="" class="topmenulinks" onclick="load_news()">News/updates</a>
+    <a id="findme" href="#" target="" class="topmenulinks" onclick="load_findme()">Where to find me</a>
   </div>
-</div>
-<div class="bodybox">
-	<div class="box1">box 1 of 6</div>
-	<div class="box2">box 2 of 6</div>
-	<div class="box3">box 3 of 6</div>
-	
-	<div class="box4">box 4 of 6</div>
-	<div class="box5">box 5 of 6</div>
-	<div class="box6">box 6 of 6</div>
-</div>
+
+
+	<div class="box1" id="box1"></div>
+
+
 
 </body>
 </html>
