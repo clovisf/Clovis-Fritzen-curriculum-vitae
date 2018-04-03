@@ -1,0 +1,28 @@
+Education
+
+Professional experience
+
+
+Extra-curricular activities
+
+
+- I run a blog about embedded systems and electronics (in Brazilian Portuguese): www.FritzenLab.com.br . Over 260 unique users and 600 visits every day (as of 2018).
+- Courses (20 or less hours each): Microsoft Excel, Python programming, 
+- Courses (20 to 40 hours each): Creativity and entrepreneurship (edX platform), Solar Energy concepts (edX platform)
+- Courses (40 or more hours each): Lego Dacta, Java language, Pascal programming 
+- Beginner-level Self-taught web development (front-end): HTML, CSS, Javascript
+- Road runner (Over 30 10km races, 20 half-marathons and 2 full marathons to this point); Best pace 4:36/Km   
+
+Notable habilities
+
+- Microcontroller programming and prototyping (mainly Arduino-based systems)
+- Electronics prototyping (both as a hobby and professionally) 
+- Basic understanding (from college experience) of FPGA hardware description
+- Advanced user of Microsoft Office and Apache OpenOffice suites
+- Handcraft (Glue gun and cardboard; basic woodworking; metal filind, soldering and milling)
+- Blogging in Wordpress, Blogger/Blogspot and flat-file CMS'
+
+Community engagement:
+
+- Facebook groups co-management: 'Arduino Brasil' (Electronics) and 'Teensy Brasil' (programming)
+- Many DIY (do it yourself) and open-source electronics/programming projects hosted on hackaday.io platform (over 15 at this point) and Instructables.com
