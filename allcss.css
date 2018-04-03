@@ -61,8 +61,8 @@ a.topmenulinks{
   //width: 700px;
   margin: 0px;
   position: fixed;
-  top: 135px;
-  border: 1px solid #333333;
+ left: 10px; top: 120px;
+  border: 0px solid #333333;
   border-radius: 12px;
   min-height: 300px;
   overflow: hidden;
