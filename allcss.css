@@ -6,6 +6,7 @@ body{
   padding: 0px;
 }
 
+
 .topmenu{
   background-color: #333333;
   width: 100%;
@@ -15,6 +16,7 @@ body{
   top: 90px;
 
 }
+
 .topmenutitle{
   background-color: #333333;
   color: #ffffff;
@@ -27,6 +29,7 @@ body{
   height: 90px;
 
   }
+
 a.topmenulinks:hover, a.topmenulinks:active{
 	border-radius: 12px;
   background: #333333;
@@ -35,12 +38,14 @@ a.topmenulinks:hover, a.topmenulinks:active{
   display: inline-block;
 
 }
+
 a.topmenulinks:visited{
 	border-radius: 12px;
   text-decoration: none;
   border: 2px solid white;
   display: inline-block;
 }
+
 a.topmenulinks{
 	border-radius: 12px;
   background: #ffffff;
@@ -50,10 +55,10 @@ a.topmenulinks{
   display: inline-block;
   padding: 3px 3px;
 }
+
 .box1{
 
-  width: 700px;
-  //background-color: #ff0000;
+  //width: 700px;
   margin: 0px;
   position: fixed;
   top: 135px;
